@@ -1,5 +1,4 @@
-# INFRA-IP-Monitor
-ระบบตรวจสอบสถานะอุปกรณ์ โครงสร้างพื้นฐานเครือข่าย ทั่วประเทศ
+
 <!doctype html>
 <html lang="th">
 <head>
